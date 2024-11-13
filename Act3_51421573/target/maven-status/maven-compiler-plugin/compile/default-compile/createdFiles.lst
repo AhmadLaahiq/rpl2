@@ -1,0 +1,4 @@
+me\laahiq\mahasiswa\controller\MahasiswaController.class
+me\laahiq\mahasiswa\view\MahasiswaView.class
+me\laahiq\mahasiswa\model\ModelMahasiswa.class
+me\laahiq\mahasiswa\model\MahasiswaDAO.class
